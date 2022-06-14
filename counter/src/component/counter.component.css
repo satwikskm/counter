@@ -1,0 +1,13 @@
+.btn{
+    padding: 10px 10px;
+    background: #00308F;
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+}
+
+.button-container{
+    display: flex;
+    gap:40px;
+    transform: translate(600px,100px);
+}
